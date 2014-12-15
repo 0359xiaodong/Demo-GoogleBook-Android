@@ -12,7 +12,7 @@ The search result list.
 Set search condition.  
 ![set search condition][2]
 
-Book detail
+Book detail  
 ![played by videoview][3]
 
 
