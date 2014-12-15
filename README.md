@@ -1,6 +1,6 @@
 # Demo-YouTuBe-Android
 ---
-An android demo about searching and playing youtube videos. You can set search condition. By default, videos are played on the youtube player that provided by youtube app. If not install the Youtube app, the videos will be played on a VideoView.
+An android demo about searching and displaying books details using Google book api. You can set search condition. 
 
 ----------
 
